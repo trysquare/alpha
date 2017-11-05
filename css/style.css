@@ -142,8 +142,8 @@ a.wit-btn {background: #fff; color: #333 !important; text-transform: uppercase;}
 #vertical-ticker{height:120px; overflow:hidden;}
 #vertical-ticker li{padding:15px 20px; display:block; text-align:center;}
 .to-bottom i.fa{font-size: 30px; border:2px #a8a8a8 solid; 	padding:20px 22px; border-radius:50%; -webkit-animation: bounce 2s infinite linear;	animation: bounce 2s infinite linear;}
-.slidertext1{color:#fff; font-size:70px; font-weight:700; text-transform:uppercase; text-align:left; text-shadow: 0 0 1px rgba(24,24,24,.75); font-family: 'Oswald', sans-serif;}
-.slidertext2{color:#fff; font-size:18px; font-weight:600; text-transform:none !important; text-align:left; }
+.slidertext1{color:#3DA5D9; font-size:50px; font-weight:700; text-transform:uppercase; text-align:left; text-shadow: 0 0 1px rgba(24,24,24,.75); font-family: 'Oswald', sans-serif;}
+.slidertext2{color:#304FFE; font-size:18px; font-weight:600; text-transform:none !important; text-align:left; }
 .slidertext4{color:#fff; font-size:18px; font-weight:600; text-transform:none !important; text-align:center; text-shadow: 0 0 1px rgba(24,24,24,.75);}
 .slidertext3 a{color:#000 !important; font-size:18px; font-weight:700; padding:14px 34px; text-transform:uppercase !important; text-align:left; background:#fdc236;}
 .tp-bannertimer{display:none;}
