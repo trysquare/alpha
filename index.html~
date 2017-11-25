@@ -98,24 +98,7 @@
     </ul>
   </div>
 </div>
-<!-- Revolution slider end -->
 
-<!--Quote Start-->
-<div class="quote-wrap">
-  <div class="container">
-    <!--Row Start-->
-    <div class="row">
-      <div class="col-md-9">
-        <h2>Looking for a quality constructor for your next project?</h2>
-      </div>
-      <div class="col-md-3">
-        <div class="quote-btn"><a href="qoute.html">get a Quote</a></div>
-      </div>
-    </div>
-    <!--Row End-->
-  </div>
-</div>
-<!--Quote End-->
 
 <!--About start-->
 <div class="about-wrap">
@@ -128,10 +111,10 @@
 We also undertake structural designing of steel and concrete structures. In doing so we provide you with the perfect designs for your industrial buildings, multistoried RCC buildings. We are committed to provide you efficient designs that are stable, safe and durable.
 </p>
         <ul class="about-service">
-          <li>Lorem ipsum dolor sit amet consectetur</li>
-          <li>Lorem ipsum dolor sit amet consectetur</li>
-          <li>Ut sit amet nisl sed ante vulputate</li>
-          <li>Ut sit amet nisl sed ante vulputate</li>
+          <li>Estimation</li>
+          <li>Structural Designing</li>
+          <li>Architectural Designing</li>
+          <li>Supervision & Construction</li>
           <div class="clearfix"></div>
         </ul>
     <!--    <div class="readmore"><a href="#">Read More</a></div> -->
@@ -148,42 +131,56 @@ We also undertake structural designing of steel and concrete structures. In doin
 <!--service start-->
 <div class="service-wrap">
   <div class="container">
-    <h1>Our <span>Service</span></h1>
+    <h1>Our <span>Services</span></h1>
     <ul class="row serviceList">
       <li class="col-md-4 col-sm-6">
-        <div class="service-image"><img src="images/feature-image-1.jpg">
+        <div class="service-image"><img src="images/services/estimation.jpeg">
           <div class="hoverlink">
-            <div class="icon"><a href="#"><i class="fa fa-link" aria-hidden="true"></i></a></div>
+          
           </div>
         </div>
         <div class="service-details">
-          <h3><a href="#">Donec justo sapien</a></h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eu faucibus magna. Fusce et odio nec tellus egestas volutpat.</p>
-          <div class="readmore"><a href="#">Read More</a></div>
+          <h3> Estimation</h3>
+          <p align="justify"> The cost estimating services provided by Trysquare comprise of experienced and qualified cost engineers with a cost estimating and a functional engineering background      <br/>.</p>
+          
         </div>
       </li>
       <li class="col-md-4 col-sm-6">
-        <div class="service-image"><img src="images/feature-image-2.jpg">
+        <div class="service-image"><img src="images/services/struct2.jpeg">
           <div class="hoverlink">
-            <div class="icon"><a href="#"><i class="fa fa-link" aria-hidden="true"></i></a></div>
+      
           </div>
         </div>
         <div class="service-details">
-          <h3><a href="#">Donec justo sapien</a></h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eu faucibus magna. Fusce et odio nec tellus egestas volutpat.</p>
-          <div class="readmore"><a href="#">Read More</a></div>
+          <h3>Structural Designing</h3>
+          <p align="justify">Trysquare offers full professional Foundation and Structural consultancy services. We are committed to providing fast track solutions in Structural Analysis, designing, preparing structural drawings    <br/>.</p>
+       
         </div>
       </li>
       <li class="col-md-4 col-sm-6">
-        <div class="service-image"><img src="images/feature-image-3.jpg">
+        <div class="service-image"><img src="images/services/arch.jpeg">
           <div class="hoverlink">
-            <div class="icon"><a href="#"><i class="fa fa-link" aria-hidden="true"></i></a></div>
+        
           </div>
         </div>
         <div class="service-details">
-          <h3><a href="#">Donec justo sapien</a></h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eu faucibus magna. Fusce et odio nec tellus egestas volutpat.</p>
-          <div class="readmore"><a href="#">Read More</a></div>
+          <h3>Architectural Designing</h3>
+          <p align="justify">Are you planning for a new home or looking to modify the current design?<br/> We can assure you that Trysquare Architects can provide personalised service and the highest quality result for your budget. </p>
+        </div>
+      </li>
+    </ul>
+    <ul class="row serviceList">
+          <li class="col-md-4 col-sm-6">
+          </li>
+     <li class="col-md-4 col-sm-6">
+        <div class="service-image"><img src="images/services/supervision1.jpeg">
+          <div class="hoverlink">
+        
+          </div>
+        </div>
+        <div class="service-details">
+          <h3>Architectural Designing</h3>
+          <p align="justify">We provide you with professional construction supervision, specifically tailored to safeguard the successful completion of your project. Our highly experienced personnel can effectively control and supervise every aspect of your construction work. </p>
         </div>
       </li>
     </ul>
@@ -194,80 +191,6 @@ We also undertake structural designing of steel and concrete structures. In doin
 
 
 
-<!--Team Start-->
-<div class="team_wrap">
-  <div class="container">
-    <h1>OUR <span>EXPERTS</span></h1>
-    <p></p>
-    <div class="row">
-      <div class="col-md-3 col-sm-6">
-        <div class="team">
-          <div class="team-image"> <img src="images/team01.png">
-            <div class="team-info">
-              <h5><a href="#">STEVE JOBS</a></h5>
-              <span>Supervisor</span>
-              <ul class="experts">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-6">
-        <div class="team">
-          <div class="team-image"> <img src="images/team02.png">
-            <div class="team-info">
-              <h5><a href="#">Alex Cameron</a></h5>
-              <span>Supervisor</span>
-              <ul class="experts">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-6">
-        <div class="team">
-          <div class="team-image"> <img src="images/team03.png">
-            <div class="team-info">
-              <h5><a href="#">Jack Peterson</a></h5>
-              <span>Supervisor</span>
-              <ul class="experts">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-3 col-sm-6">
-        <div class="team">
-          <div class="team-image"> <img src="images/team04.png">
-            <div class="team-info">
-              <h5><a href="#">Adam Lewis</a></h5>
-              <span>Supervisor</span>
-              <ul class="experts">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<!--Team end-->
 
 
 
