@@ -78,14 +78,15 @@
 
 <!-- Header end -->
 
+<img alt="" src="images/dummy.png" data-lazyload="images/letsbuild.jpg">
+
 <!-- Revolution slider start -->
 <div class="tp-banner-container sliderWraper">
   <div class="tp-banner" >
     <ul>
-      <li data-slotamount="7" data-transition="incude" data-masterspeed="1000" data-saveperformance="on"> <img alt="" src="images/dummy.png" data-lazyload="images/banner1.jpg">
-        <div class="caption lft large-title tp-resizeme slidertext1" data-x="400" data-y="210" data-speed="300" data-start="2200"><span>Your Dream Home</span></div>
-        <div class="caption lfb large-title tp-resizeme slidertext2" data-x="380" data-y="370" data-speed="300" data-start="2800">Building a home is a dream that everyone carries in their heart.A dream of a <br> beautiful house that
-        is stylish yet strong, functional yet elegant, quick to <br/> construct but to last a lifetime. We at Trysquare understand this perfectly. <br/>We know that you are not building a house but giving life to your home.</div>
+      <li data-slotamount="7" data-transition="incude" data-masterspeed="1000" data-saveperformance="on"> <img alt="" src="images/dummy.png" data-lazyload="images/letsbuild.jpg">
+     
+        
       </li>
       <li data-slotamount="7" data-transition="3dcurtain-vertical" data-masterspeed="1000" data-saveperformance="on"> <img alt="" src="images/dummy.png" data-lazyload="images/banner2.jpg">
         <div class="caption lfl large-title tp-resizeme slidertext1" data-x="center" data-y="210" data-speed="3600" data-start="2200"><span>Construction</span> </div>
@@ -179,7 +180,8 @@ We also undertake structural designing of steel and concrete structures. In doin
         </div>
         <div class="service-details">
           <h3>Supervision & Construction</h3>
-          <p align="justify">We provide you with professional construction supervision, specifically tailored to safeguard the successful completion of your project. Our highly experienced personnel can effectively control and supervise every aspect of your construction work. </p>
+          <p align="justify">We also undertake end to end construction, wherein we handle all the activities from planning, designing, approvals, and execution to finally deliver you the keys to your dream home. 
+ </p>
         </div>
       </li>
     </ul>
