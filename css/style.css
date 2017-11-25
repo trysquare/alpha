@@ -465,6 +465,9 @@ font-weight: 600; text-transform: uppercase;}
 .call-us{margin-top:10px; position:relative; padding-left:22px;}
 .call-us a{color:#a6a6a6; font-size:14px;}
 .call-us:before{content: "\f095"; font-family: 'FontAwesome'; font-size:14px; color:#a6a6a6; position:absolute; top:0; left:0; font-weight:400;}
+.mail-us{margin-top:10px; position:relative; padding-left:22px;}
+.mail-us a{color:#a6a6a6; font-size:14px;}
+.mail-us:before{content: "\f112"; font-family: 'FontAwesome'; font-size:14px; color:#a6a6a6; position:absolute; top:0; left:0; font-weight:400;}
 .fax{margin-top:10px; position:relative; padding-left:22px;}
 .fax a{color:#a6a6a6; font-size:14px;}
 .fax:before{content: "\f1ac"; font-family: 'FontAwesome'; font-size:14px; color:#a6a6a6; position:absolute; top:0; left:0; font-weight:400;}
